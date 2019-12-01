@@ -1,8 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to this HeartMind Alchemy experiment!
 
-You can use the [editor on GitHub](https://github.com/terabera/-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Thank you for being here.  It is brave of you to try something despite getting so little details.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is an experiment conducted by Noah.  If you are on a tablet or phone, simply keep this page open and blank the screen with it "underneath".
+
+If you are on a computer, keep this page on the screen.  Feel free to open several tabs as this may enhance the effect.
+
+Headphones are not required.  Simply see this page as if it were a meditation aid--my hope is that it will create a change in your brainwave patterns.
+
+It is not in any way intended to be a test of placebo.  This whole thing may sound insane, but it is a real test of a real technology that is being sold (not by me, and not by any affiliate of mine).  Your graphs that are posted in HeartMind Alchemy will stay there and will not be used or shared with third party in any way.
+
+I am offering this to you today as a trial and as an experiment.  Do not expect to know any further details than this.  I might not tell you what it is I am testing.  Simply acknowledge any results and know that tech is more powerful than you may think!  If no results are seen, go on with your life.
+
+Meditate.
 
 ### Markdown
 
